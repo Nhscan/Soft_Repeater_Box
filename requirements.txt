@@ -1,0 +1,19 @@
+# Soft Repeater Box - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Audio I/O
+pyaudio>=0.2.11
+
+# Numeric computing for audio processing
+numpy>=1.19.0
+
+# Serial port control for PTT relay
+pyserial>=3.5
+
+# Text-to-speech
+pyttsx3>=2.90
+
+# HTTP requests for weather API
+requests>=2.25.0
+
+# Note: tkinter comes with Python standard library (no pip install needed)
